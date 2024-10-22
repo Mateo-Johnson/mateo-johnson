@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on FRC code for 2025, Arduino projects and web apps<br>👯 I'm looking to collaborate on anything related to FRC or Robotics in general<br>🤝 I'm not currently looking for help with anything<br>🌱 I'm currently learning a 12th programming language (Ruby)<br>💬 Ask me about literally anything, I love to learn and talk<br>⚡️ Fun fact: 16 year old undergrad student at OSU
+🔭 I'm currently working on FRC code for 2025, Arduino projects and web apps<br>👯 I'm looking to collaborate on anything related to FRC or Robotics in general<br>🤝 I'm not currently looking for help with anything<br>🌱 I'm currently learning a 12th (13th?) programming language (Ruby)<br>💬 Ask me about literally anything, I love to learn and talk<br>⚡️ Fun fact: I am a 16 year old undergrad student at OSU
 
 
 ## 🌐 Socials:
