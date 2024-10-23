@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=Mateo-Johnson&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</center>
 
 # 🚀 Project Highlights:
 ### [FRC 3324 Website](https://metrobots.github.io)
