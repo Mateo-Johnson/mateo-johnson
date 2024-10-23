@@ -57,11 +57,8 @@
 ### [FRC 2025 Code](https://github.com/3324-scouting/FRC-2025)
 Developing advanced autonomous robot control systems and integrating machine learning to improve precision and adaptability for the 2025 FRC competition.
 
-### [IoT Garden Watering System](https://github.com/mjohnsonweb/IoT-Garden-Water-System)
-A smart garden watering system using Arduino, sensors, and cloud integration to monitor and maintain soil moisture levels automatically.
-
 ### [Fluid Simulator](https://github.com/mjohnsonportfolio/Fluid-Simulator)
-A real-time fluid simulation tool used in classrooms for physics education, built with C++ and integrated into an interactive web interface.
+A real-time fluid simulation tool used in classrooms for physics education, built with HTML, CSS and JS to create a interactive web interface.
 
 # 📊 GitHub Stats
 ![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
