@@ -54,7 +54,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats
-![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) ![Mateo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-Johnson&theme=tokyonight&hide_border=false&layout=compact) ![Mateo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mateo-Johnson&theme=tokyonight&hide_border=false)
+![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) ![Mateo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mateo-Johnson&theme=tokyonight&hide_border=false) ![Mateo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-Johnson&theme=tokyonight&hide_border=false&layout=compact) 
 
 # 🚀 Project Highlights
 ### [FRC 3324 Website](https://metrobots.github.io)
