@@ -55,10 +55,37 @@
 
 # 🚀 Project Highlights
 ### [FRC 3324 Website](https://metrobots.github.io)
-Developing advanced HTML, CSS and JS sites improve community and reachability for the team 3324 moving forward.
+This website serves as the official online presence for the FIRST Robotics Competition (FRC) team 3324, known as the Metrobots. It features comprehensive information about the team’s history, mission, and achievements. Visitors can find details on upcoming events, team members, sponsors, and resources. The site is designed to enhance community engagement and outreach, providing a platform for potential members and supporters to connect with the team.
 
 ### [Fluid Simulator](https://mjohnsonportfolio.github.io/fluidsim/)
-A real-time fluid simulation tool used in classrooms for physics education, built with HTML, CSS and JS to create a clean, interactive web interface.
+The Fluid Simulator is an interactive web application that allows users to visualize fluid dynamics in real-time. Utilizing advanced algorithms for physics simulations, it provides a user-friendly interface where students can experiment with various fluid properties and observe the results instantly. The application serves as a valuable educational tool in physics classrooms, helping students understand complex concepts such as viscosity, flow rate, and turbulence through hands-on interaction.
+
+### [Conway's Game of Life](https://mjohnsonportfolio.github.io/game-of-life/)
+This implementation of Conway's Game of Life is a cellular automaton simulation that demonstrates how simple rules can lead to complex behaviors. Users can create and modify initial configurations, then watch how the grid evolves over time according to the game's rules. The interface allows for user interaction, enabling players to experiment with different patterns and observe the emergence of life-like behaviors, making it a compelling educational resource for understanding algorithmic processes and emergent systems.
+
+### [Rock, Paper, Scissors Bot](https://mjohnsonportfolio.github.io/rps/)
+The Rock, Paper, Scissors Bot is an engaging web application that simulates the classic hand game against a computer-controlled opponent. Users can challenge the bot to a match, and the application employs strategies to enhance the gaming experience, such as implementing randomization and pattern recognition. This project demonstrates the integration of game theory and programming, providing a fun way for users to learn about algorithms while enjoying a timeless game.
+
+### [Engineering Portfolio](https://mjohnsonportfolio.github.io/)
+This portfolio showcases the work and projects of an engineering student or professional, highlighting skills, experiences, and achievements in various engineering disciplines. The site features detailed descriptions of completed projects, technical skills, and a collection of documentation and resources. It serves as an online resume that effectively demonstrates the individual’s capabilities to potential employers or collaborators, emphasizing a blend of creativity and technical expertise in engineering.
+
+### [Visual Website Builder (Glimmer)](https://glimmerweb.github.io/)
+Glimmer is an innovative visual website builder designed to simplify the web development process for users of all skill levels. It provides a drag-and-drop interface that allows users to create responsive websites without needing to write code. Users can customize layouts, add interactive elements, and see real-time previews of their creations. This tool is perfect for aspiring web developers and designers, offering an accessible way to bring their ideas to life while learning about web design principles.
+
+### [FRC Competition Analyzer](https://metrobots.github.io/companalysis/)
+The FRC Competition Analyzer is a specialized tool designed to assist teams in analyzing and strategizing for upcoming FIRST Robotics competitions. It aggregates data from past competitions and provides insights on team performance, match outcomes, and strategic approaches. The interface allows users to filter and compare statistics, helping teams make informed decisions based on historical data. This tool enhances competitive readiness and promotes data-driven strategies for robotics teams.
+
+### [FRC Match Simulator](https://metrobots.github.io/matchsim/)
+The FRC Match Simulator provides a realistic simulation of robotics matches in the FIRST Robotics Competition. Users can set up match scenarios, including team configurations and field layouts, to test various strategies and tactics. The simulator allows teams to practice their coordination and timing, facilitating better preparation for actual matches. With a focus on user engagement and realism, this tool serves as a valuable training resource for teams seeking to refine their performance in competitions.
+
+### [FRC Calendar Tool](https://metrobots.github.io/resources/calendartool/)
+The FRC Calendar Tool is designed to help teams manage their schedules efficiently by providing a centralized platform for tracking important dates related to the FIRST Robotics season. Users can view and add events, deadlines, and meetings, ensuring that all team members stay informed. The tool enhances communication and organization within the team, allowing for better planning and coordination throughout the competitive season.
+
+### [FRC Match Scouting Form](https://metrobots.github.io/resources/scouting/)
+The FRC Match Scouting Form is an essential tool for teams to collect and analyze data during competitions. It allows team members to record observations and performance metrics for each match, including robot capabilities, strategy effectiveness, and opponent strengths. This data can then be used to make strategic decisions in real-time and improve future performance. The form is designed to be intuitive, ensuring that scouts can focus on gathering accurate information quickly during the fast-paced environment of competitions.
+
+### [FRC 2D Swerve Simulator](https://metrobots.github.io/resources/swervesim/)
+The FRC 2D Swerve Simulator provides an interactive environment for teams to experiment with swerve drive systems commonly used in robotics competitions. Users can simulate different driving scenarios, adjusting parameters such as speed, rotation, and turning radius. The simulator helps teams understand the dynamics of their robot's movement, allowing them to optimize their design and control strategies. This tool is particularly beneficial for teams looking to innovate and improve their robot's agility and maneuverability on the field.
 
 # 📊 GitHub Stats
 ![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
