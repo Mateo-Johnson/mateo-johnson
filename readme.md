@@ -54,11 +54,11 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 🚀 Project Highlights
-### [FRC 2025 Code](https://github.com/3324-scouting/FRC-2025)
-Developing advanced autonomous robot control systems and integrating machine learning to improve precision and adaptability for the 2025 FRC competition.
+### [FRC 3324 Website](https://metrobots.github.io)
+Developing advanced HTML, CSS and JS sites improve community and reachability for the team 3324 moving forward.
 
-### [Fluid Simulator](https://github.com/mjohnsonportfolio/Fluid-Simulator)
-A real-time fluid simulation tool used in classrooms for physics education, built with HTML, CSS and JS to create a interactive web interface.
+### [Fluid Simulator](https://mjohnsonportfolio.github.io/fluidsim/)
+A real-time fluid simulation tool used in classrooms for physics education, built with HTML, CSS and JS to create a clean, interactive web interface.
 
 # 📊 GitHub Stats
 ![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
