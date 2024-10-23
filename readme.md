@@ -53,6 +53,13 @@
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+# 📊 GitHub Stats
+![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![Mateo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-Johnson&theme=tokyonight&hide_border=false&layout=compact)
+
+![Mateo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mateo-Johnson&theme=tokyonight&hide_border=false)
+
 # 🚀 Project Highlights
 ### [FRC 3324 Website](https://metrobots.github.io)
 This website serves as the official online presence for the FIRST Robotics Competition (FRC) team 3324, known as the Metrobots. It features comprehensive information about the team’s history, mission, and achievements. Visitors can find details on upcoming events, team members, sponsors, and resources. The site is designed to enhance community engagement and outreach, providing a platform for potential members and supporters to connect with the team.
@@ -87,16 +94,9 @@ The FRC Match Scouting Form is an essential tool for teams to collect and analyz
 ### [FRC 2D Swerve Simulator](https://metrobots.github.io/resources/swervesim/)
 The FRC 2D Swerve Simulator provides an interactive environment for teams to experiment with swerve drive systems commonly used in robotics competitions. Users can simulate different driving scenarios, adjusting parameters such as speed, rotation, and turning radius. The simulator helps teams understand the dynamics of their robot's movement, allowing them to optimize their design and control strategies. This tool is particularly beneficial for teams looking to innovate and improve their robot's agility and maneuverability on the field.
 
-# 📊 GitHub Stats
-![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mateo-Johnson&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![Mateo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-Johnson&theme=tokyonight&hide_border=false&layout=compact)
-
-![Mateo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mateo-Johnson&theme=tokyonight&hide_border=false)
-
 ## 🏆 Achievements & Certifications
-- 🏅 **CompTIA A+, Network+, Security+ Certified**
-- 🛠️ **CAD & EDA Design Expert**
+- 🏅 **CompTIA A+, Network+, Security+, LSS Green, LSS Yellow Certified**
+- 🛠️ **CAD & EDA Design Expert (Onshape, Fusion360, KiCAD, EAGLE)**
 - 🧑‍🎓 **Undergraduate at OSU at 16**
 - 💻 **Freelance web designer – founder of Glimmer**
 
