@@ -1,10 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on FRC code for 2025, Arduino projects and web apps  
+🔭 I'm currently working on FRC code for 2026, Arduino projects, custom microcontrollers and web apps  
 👯 I'm looking to collaborate on anything related to FRC or Robotics in general  
-🤝 I'm not currently looking for help with anything  
 🌱 I'm currently learning a 12th (13th?) programming language (Ruby)  
 💬 Ask me about literally anything, I love to learn and talk  
-⚡ Fun fact: I am a 16-year-old undergrad student at OSU  
+⚡ Fun fact: I am a 17-year-old undergrad student at OSU  
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mateojohnson4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_mateojohnson) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-johnson-7a39a5334) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27934440) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Mateo-Johnson)
