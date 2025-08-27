@@ -52,9 +52,9 @@ The FRC Match Scouting Form is an essential tool for teams to collect and analyz
 The FRC 2D Swerve Simulator provides an interactive environment for teams to experiment with swerve drive systems commonly used in robotics competitions. Users can simulate different driving scenarios, adjusting parameters such as speed, rotation, and turning radius. The simulator helps teams understand the dynamics of their robot's movement, allowing them to optimize their design and control strategies. This tool is particularly beneficial for teams looking to innovate and improve their robot's agility and maneuverability on the field.
 
 ## 🏆 Achievements & Certifications:
-- 🏅 **CompTIA A+, Network+, Security+, LSS Green, LSS Yellow Certified**
+- 🏅 **CompTIA A+, Network+, Security+, LSS Green, LSS Yellow**
 - 🛠️ **CAD & EDA Design Expert (Onshape, Fusion360, KiCAD, EAGLE)**
-- 🧑‍🎓 **Undergraduate at OSU at 16**
+- 🧑‍🎓 **Undergraduate at OSU at 17**
 - 💻 **Freelance web designer – founder of Glimmer**
 
 ## 🔝 Top Contributed Repo:
