@@ -18,6 +18,9 @@
 
 
 # 🚀 Project Highlights:
+### [Engineering Portfolio](https://mateo-johnson.github.io/)
+This portfolio showcases the work and projects of an engineering student or professional, highlighting skills, experiences, and achievements in various engineering disciplines. The site features detailed descriptions of completed projects, technical skills, and a collection of documentation and resources. It serves as an online resume that effectively demonstrates the individual’s capabilities to potential employers or collaborators, emphasizing a blend of creativity and technical expertise in engineering.
+
 ### [FRC 3324 Website](https://metrobots.github.io)
 This website serves as the official online presence for the FIRST Robotics Competition (FRC) team 3324, known as the Metrobots. It features comprehensive information about the team’s history, mission, and achievements. Visitors can find details on upcoming events, team members, sponsors, and resources. The site is designed to enhance community engagement and outreach, providing a platform for potential members and supporters to connect with the team.
 
@@ -26,9 +29,6 @@ This implementation of Conway's Game of Life is a cellular automaton simulation 
 
 ### [Procedural Flower Generator](https://mateo-johnson.github.io/projects/coding-projects/flowergen/)
 The procedural flower generator uses the css-doodle library to generate random flowers on every mouse move. The colors, petal locations and the background changes every time a new flower is generated. Unlike some of my other projects, this was not created for any reason other than I thought that it would be beautiful.
-
-### [Engineering Portfolio](https://mateo-johnson.github.io/)
-This portfolio showcases the work and projects of an engineering student or professional, highlighting skills, experiences, and achievements in various engineering disciplines. The site features detailed descriptions of completed projects, technical skills, and a collection of documentation and resources. It serves as an online resume that effectively demonstrates the individual’s capabilities to potential employers or collaborators, emphasizing a blend of creativity and technical expertise in engineering.
 
 ### [Visual Website Builder (Glimmer)](https://glimmerweb.github.io/)
 Glimmer is an innovative visual website builder designed to simplify the web development process for users of all skill levels. It provides a drag-and-drop interface that allows users to create responsive websites without needing to write code. Users can customize layouts, add interactive elements, and see real-time previews of their creations. This tool is perfect for aspiring web developers and designers, offering an accessible way to bring their ideas to life while learning about web design principles.
