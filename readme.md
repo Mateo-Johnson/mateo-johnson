@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently working on FRC code for 2026, Arduino projects, custom microcontrollers and web apps  
-👯 I'm looking to collaborate on anything related to Robotics or Electrical Engineering 
+👯 I'm looking to collaborate on anything related to Robotics or Electrical Engineering
 🌱 I'm currently working on improving a set of custom microcontrollers I've designed
+
 💬 Ask me about literally anything, I love to learn and teach
 ⚡ Fun fact: I am a 17-year-old student at OSU  
 
